@@ -19,4 +19,14 @@ Click **Create Notebook Instance**
 Choose a name for the notebook, for example "aimlbootcamp" as the instance name. 
 You can bump the instance size up to extra large.  
 
+The instance will take about five minutes to start up. In the mean time, proceed to step 2.
+
+### Step 2 - apply lab credits if you have any
+
+Navigate to the account link at the top right of your window.
+
+Select **Account**. Then navigate down to **Credits** and enter in the coupon.
+
+
+
 
