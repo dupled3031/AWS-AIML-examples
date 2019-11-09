@@ -13,6 +13,7 @@ Notebook instance name: aimlbootcamp
 Notebook instance type: any xlarge instance type
 Git repositories:
 > Choose "Clone a public Git repository to this notebook only"
+
 > Git repository URL: https://github.com/dupled3031/AWS-AIML-examples.git
 
 Click **Create Notebook Instance**
