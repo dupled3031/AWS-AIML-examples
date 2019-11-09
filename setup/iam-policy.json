@@ -64,7 +64,8 @@
         "rekognition:*",
         "textract:*",
         "forecast:*",
-        "comprehend:*"
+        "comprehend:*",
+        "transcribe:*"
       ],
       "Resource": [
         "*"
