@@ -10,6 +10,8 @@ Navigate to the account link at the top right of your window.
 
 Select **Account**. Then navigate down to **Credits** and enter in the coupon.
 
+[[https://github.com/dupled3031/AWS-AIML-examples/blob/master/images/apply-credits.png]]
+
 ## Step 2 - Set up your Sagemaker Jupyter Notebook instance
 
 In the AWS console, navigate to Sagemaker. Then select, **Notebook** | **Notebook Instances**. Click the **Create Notebook instance** button.
