@@ -38,7 +38,9 @@
           "iam:AttachRolePolicy"
         ],
         "Resource": [
-          "arn:aws:iam:::role/PersonalizeRoleAIMLBootcamp*"
+          "arn:aws:iam:::role/PersonalizeRoleAIMLBootcamp*",
+          "arn:aws:iam:::policy/PersonalizeRoleAIMLBootcamp*",
+          "*"          
         ]
     },
     {
