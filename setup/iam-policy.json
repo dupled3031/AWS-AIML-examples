@@ -33,6 +33,15 @@
       ]
     },
     {
+        "Effect": "Allow",
+        "Action": [
+          "iam:AttachRolePolicy"
+        ],
+        "Resource": [
+          "arn:aws:iam:::*PersonalizeRoleAIMLBootcamp*"
+        ]
+    },
+    {
       "Effect": "Allow",
       "Action": [
         "iam:PassRole"
