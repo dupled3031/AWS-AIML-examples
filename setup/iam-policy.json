@@ -10,6 +10,7 @@
         "s3:PutObject",
         "s3:DeleteObject",
         "s3:CreateBucket",
+        "s3:PutBucketPolicy",
         "iam:ListRoles",
         "iam:GetRole",
         "cloudwatch:PutMetricData",
